@@ -72,5 +72,7 @@ body {
 }
 
 .hovered {
-  border-top: 2px solid #DAA520;
+  border: 1px dashed #808080;
+  border-radius: 20px;
+  background: #ccc;
 }
